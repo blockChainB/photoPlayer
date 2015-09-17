@@ -29,5 +29,5 @@ import "LFXPageView.h"
     
 
 #效果
-![](demo/3.png)
-![](demo/2.png)
+![alt text](demo/3.png)
+![alt text](demo/2.png)
