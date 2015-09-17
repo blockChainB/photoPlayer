@@ -26,6 +26,7 @@
     self.pageView = pageView;
     [self.view addSubview:pageView];
     // 设置数据和frame
+    
     pageView.imageNames = self.images;
     
     
